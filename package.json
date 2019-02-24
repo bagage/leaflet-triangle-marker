@@ -1,0 +1,9 @@
+{
+  "name": "leaflet-triangle-marker",
+  "version": "1.0.0",
+  "description": "Draw vector triangles using fast Canvas renderer on Leaflet map.",
+  "main": "leaflet-triangle-marker/leaflet-triangle-marker.js",
+  "repository": "https://github.com/bagage/leaflet-triangle-marker",
+  "author": "Przemysław Melnarowicz <przemyslaw@melnarowicz.pl>",
+  "license": "MIT"
+}
