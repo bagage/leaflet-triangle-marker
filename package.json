@@ -1,6 +1,6 @@
 {
   "name": "leaflet-triangle-marker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Draw vector triangles using fast Canvas renderer on Leaflet map.",
   "main": "leaflet-triangle-marker/leaflet-triangle-marker.js",
   "repository": "https://github.com/bagage/leaflet-triangle-marker",
